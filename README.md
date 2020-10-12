@@ -18,7 +18,9 @@
 (4) 2019.07.26.信用评级定义一览.xls。这是从各评级机构的官网上手工整理的等级含义表。
 
 ### 运行程序
-下载安装Python3.x版本(下载网站：https://www.anaconda.com/products/individual)。安装完毕后，打开“rating_combined_v1.0.py”程序，点击运行即可。由于是自动化的程序，所以不用再做任何操作，请耐心等待程序运行完毕即可。
+下载安装Python3.x版本,下载网站：https://www.anaconda.com/products/individual
+
+安装完毕后，打开“rating_combined_v1.0.py”程序，点击运行即可。由于是自动化的程序，所以不用再做任何操作，请耐心等待程序运行完毕即可。
 
 ### 程序结果
 Python输出的结果均列在“Data_out”文件夹中。
